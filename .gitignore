@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+token.json
+chat_id.txt
+
+# OS
+.DS_Store
+Thumbs.db 
